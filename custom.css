@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+}
+.left
+{
+    color: whitesmoke;
+    height:600px;
+
+    background-color: royalblue;
+}
+
+.middle
+{
+    height: 600px;
+
+    background-color: cyan;
+}
+.right
+{
+    height: 600px;
+
+   background-color:yellow;
+}
+
+.appName{
+    color: rgb(251, 254, 224);
+text-align: center;
+    font-size: 100px;
+    text-shadow: 8px 8px black;
+    font-family: 'Indie Flower', cursive;
+
+
+}
+.quote{
+
+    color: blue;
+
+}
